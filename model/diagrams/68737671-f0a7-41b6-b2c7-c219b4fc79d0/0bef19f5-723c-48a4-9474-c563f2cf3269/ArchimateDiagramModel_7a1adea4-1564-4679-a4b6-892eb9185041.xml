@@ -790,30 +790,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="15d8d984-3351-46fc-bb73-0b495dc775a5"
-      type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="90c06f30-99f2-423a-8a31-0592c93df740"
-        source="15d8d984-3351-46fc-bb73-0b495dc775a5"
-        target="b6b61a96-41c3-4f33-8e1e-540fa38deb8c">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_d40aaad7-0995-4eb4-9604-0b7f85d3d0c0.xml#d40aaad7-0995-4eb4-9604-0b7f85d3d0c0"/>
-    </sourceConnections>
-    <bounds
-        x="1560"
-        y="1167"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_c33179d1-0ed9-426d-a45d-50abd0926a42.xml#c33179d1-0ed9-426d-a45d-50abd0926a42"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="b6b61a96-41c3-4f33-8e1e-540fa38deb8c"
-      targetConnections="90c06f30-99f2-423a-8a31-0592c93df740">
+      id="b6b61a96-41c3-4f33-8e1e-540fa38deb8c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="909c43e7-5bd4-4166-b72a-6a650d2af6ac"

@@ -5,8 +5,7 @@
     id="d5c2d985-f0bc-4c1d-9c4b-7aa8a8ef8ffa">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="d0b25299-f769-449b-b589-09f7d123cfb6"
-      targetConnections="de89034f-e407-40fd-b362-fb381aabf2c0">
+      id="d0b25299-f769-449b-b589-09f7d123cfb6">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="97b25fcd-33c7-4cf8-b7cd-0d94b50086b7"
@@ -97,8 +96,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="e06ae777-24d6-4b82-959f-82820abc959d"
-      targetConnections="80487329-e370-4fc1-8733-23dd379d1c21">
+      id="e06ae777-24d6-4b82-959f-82820abc959d">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="8799bfbf-1356-45a2-b70d-22967212d1a1"
@@ -207,8 +205,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="51d2ed3c-39ae-4986-8145-3d1b6153ae3e"
-      targetConnections="6cfee259-fcd4-4515-a17b-0d95eedc6942">
+      id="51d2ed3c-39ae-4986-8145-3d1b6153ae3e">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="3794ec8a-a2a4-4cdb-b621-0889ed05f6ae"
@@ -247,46 +244,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_fd77e384-406d-4ba1-a419-c407d9b413a7.xml#fd77e384-406d-4ba1-a419-c407d9b413a7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="11344a69-2422-45bb-87d3-2d3a3f8a6211"
-      targetConnections="6d8b0d99-d182-4a96-8c78-5ff5ec009445">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="de89034f-e407-40fd-b362-fb381aabf2c0"
-        source="11344a69-2422-45bb-87d3-2d3a3f8a6211"
-        target="d0b25299-f769-449b-b589-09f7d123cfb6">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_913c7e36-2bf4-41a8-bae9-e75d8dee3c08.xml#913c7e36-2bf4-41a8-bae9-e75d8dee3c08"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6cfee259-fcd4-4515-a17b-0d95eedc6942"
-        source="11344a69-2422-45bb-87d3-2d3a3f8a6211"
-        target="51d2ed3c-39ae-4986-8145-3d1b6153ae3e">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_6c032127-7efc-478f-ae80-bf2d031f6342.xml#6c032127-7efc-478f-ae80-bf2d031f6342"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="80487329-e370-4fc1-8733-23dd379d1c21"
-        source="11344a69-2422-45bb-87d3-2d3a3f8a6211"
-        target="e06ae777-24d6-4b82-959f-82820abc959d">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_21bba404-3217-465d-8e31-14a6bd04f703.xml#21bba404-3217-465d-8e31-14a6bd04f703"/>
-    </sourceConnections>
-    <bounds
-        x="833"
-        y="617"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_9a7cb9e5-91d1-441b-9230-20727d5d2cd3.xml#9a7cb9e5-91d1-441b-9230-20727d5d2cd3"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -344,15 +301,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="89fb2576-b036-4528-8435-94e566c7ab0e">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6d8b0d99-d182-4a96-8c78-5ff5ec009445"
-        source="89fb2576-b036-4528-8435-94e566c7ab0e"
-        target="11344a69-2422-45bb-87d3-2d3a3f8a6211">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_7801d0d6-2f9e-4204-821a-b66b5d598480.xml#7801d0d6-2f9e-4204-821a-b66b5d598480"/>
-    </sourceConnections>
     <bounds
         x="900"
         y="764"
