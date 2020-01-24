@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decision de décès"
+    id="89d0ccde-4dd6-4607-8923-cecef29e83fc"
+    documentation="contient :&#xD;&#xA;la date de décès de l'adhérent &#xD;&#xA;la date de la decision&#xD;&#xA;nom de l'adherent &#xD;&#xA;noms des bénéficier &#xD;&#xA;montant du capital décès &#xD;&#xA;"/>
