@@ -180,18 +180,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="7c44503f-ab91-46dd-800d-62cbf67ea680">
-    <bounds
-        x="672"
-        y="528"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyService"
-        href="TechnologyService_250dba6a-323b-4358-ae19-05a739183cd7.xml#250dba6a-323b-4358-ae19-05a739183cd7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="83d5ccd7-4191-4061-9367-82fe9c6d4c3d"
       targetConnections="fa6ceee7-c9ff-4338-9667-f6166e38bb22"
       type="1">
