@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bilan des paies"
+    id="60886bb8-8b53-40ea-83bb-d46cf7f9c32a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_254d67d6-0985-447f-8cb0-e11c9d498bb4.xml#254d67d6-0985-447f-8cb0-e11c9d498bb4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ac795c3a-2af7-4d1f-bc3d-24d5d27361b9.xml#ac795c3a-2af7-4d1f-bc3d-24d5d27361b9"/>
+</archimate:FlowRelationship>
