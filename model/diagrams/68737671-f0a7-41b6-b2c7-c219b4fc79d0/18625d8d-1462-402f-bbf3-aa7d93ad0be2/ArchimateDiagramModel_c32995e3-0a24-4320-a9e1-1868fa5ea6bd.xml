@@ -408,17 +408,26 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_d2f8dea9-bd8f-4506-9189-719469e51f1e.xml#d2f8dea9-bd8f-4506-9189-719469e51f1e"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="46dc8d8f-8d0a-439c-8faa-f47fa2d0b932"
+        source="9f58b6f4-a421-4218-ac20-0844f4000ca2"
+        target="9ee0e90c-3592-4ee4-91e1-b919ba7f057e">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_5ae75b97-3976-45ed-8e64-fb02deb21c21.xml#5ae75b97-3976-45ed-8e64-fb02deb21c21"/>
+    </sourceConnections>
     <bounds
-        x="304"
+        x="180"
         y="584"
-        width="300"
-        height="97"/>
+        width="424"
+        height="101"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f1c34b88-acf4-4fb7-a38a-80d1fc089e6f"
         targetConnections="1519920b-962a-420f-a3b6-aa93a7870cbd">
       <bounds
-          x="24"
+          x="148"
           y="31"
           width="120"
           height="55"/>
@@ -431,13 +440,26 @@
         id="2a0611da-dfc1-4be0-9b49-7534d6b223ac"
         targetConnections="b203aeaf-8650-47a4-9f60-cdcba597cf5e">
       <bounds
-          x="168"
+          x="292"
           y="31"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessObject"
           href="BusinessObject_15b44886-9c18-400d-883c-e87e042f1f5e.xml#15b44886-9c18-400d-883c-e87e042f1f5e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="9ee0e90c-3592-4ee4-91e1-b919ba7f057e"
+        targetConnections="46dc8d8f-8d0a-439c-8faa-f47fa2d0b932">
+      <bounds
+          x="12"
+          y="31"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessObject"
+          href="BusinessObject_0c2608df-ffdf-47a9-bcd0-0ea7fa710675.xml#0c2608df-ffdf-47a9-bcd0-0ea7fa710675"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessObject"
