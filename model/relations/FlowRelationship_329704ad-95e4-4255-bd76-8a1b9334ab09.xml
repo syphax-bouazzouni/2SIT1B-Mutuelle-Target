@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bilan des cotisations"
+    id="329704ad-95e4-4255-bd76-8a1b9334ab09">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2cb085a6-2a48-4a74-9406-eff4e3058ab2.xml#2cb085a6-2a48-4a74-9406-eff4e3058ab2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_172d8e73-8c76-4def-83bb-26d0bc30169f.xml#172d8e73-8c76-4def-83bb-26d0bc30169f"/>
+</archimate:FlowRelationship>

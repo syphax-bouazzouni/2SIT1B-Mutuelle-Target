@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informations sur les contrats"
+    id="1ab00cfb-e33c-42cb-89a9-cff32cfb6955">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_16db08ec-9ad6-445f-ab0d-0cb30ca0b9d6.xml#16db08ec-9ad6-445f-ab0d-0cb30ca0b9d6"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_2cb085a6-2a48-4a74-9406-eff4e3058ab2.xml#2cb085a6-2a48-4a74-9406-eff4e3058ab2"/>
+</archimate:FlowRelationship>

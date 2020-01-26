@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bilan des employés"
+    id="f509785a-53ca-4cd3-8180-c471cd83146e">
+  <source
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_73160205-9464-445c-81ea-6d0b0951c0e9.xml#73160205-9464-445c-81ea-6d0b0951c0e9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_172d8e73-8c76-4def-83bb-26d0bc30169f.xml#172d8e73-8c76-4def-83bb-26d0bc30169f"/>
+</archimate:FlowRelationship>
