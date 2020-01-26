@@ -758,8 +758,8 @@
       id="19cda2b8-8b2a-43e1-8b0a-d39a1d1ec662"
       targetConnections="db7c35c7-248c-4802-92b0-90f534b9e568">
     <bounds
-        x="1812"
-        y="1176"
+        x="1656"
+        y="1776"
         width="120"
         height="55"/>
     <archimateElement
@@ -964,8 +964,8 @@
           href="FlowRelationship_8a7ced6a-185f-4f42-92da-e52d2564bc02.xml#8a7ced6a-185f-4f42-92da-e52d2564bc02"/>
     </sourceConnections>
     <bounds
-        x="2700"
-        y="1200"
+        x="1860"
+        y="1812"
         width="120"
         height="55"/>
     <archimateElement
