@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bilan des prets"
+    id="a4df7375-c959-4718-aa78-579f9d6dc08d">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_caa37f7d-9217-4993-86f2-6e0b4832d799.xml#caa37f7d-9217-4993-86f2-6e0b4832d799"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_172d8e73-8c76-4def-83bb-26d0bc30169f.xml#172d8e73-8c76-4def-83bb-26d0bc30169f"/>
+</archimate:FlowRelationship>
