@@ -269,8 +269,8 @@
           href="CompositionRelationship_a0f1621c-0fef-4e46-b7d5-666e4f1a15bf.xml#a0f1621c-0fef-4e46-b7d5-666e4f1a15bf"/>
     </sourceConnections>
     <bounds
-        x="816"
-        y="424"
+        x="843"
+        y="432"
         width="850"
         height="141"/>
     <children
@@ -846,7 +846,7 @@
         x="1848"
         y="576"
         width="120"
-        height="55"/>
+        height="83"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_44593785-7447-459f-9ab7-e621596142fa.xml#44593785-7447-459f-9ab7-e621596142fa"/>
