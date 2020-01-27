@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Cotisation"
+    name="Cotisation-Mutuelle"
     id="80da357f-cd68-4c61-8600-620121d285a0">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -81,8 +81,8 @@
           href="AssignmentRelationship_14c51342-85f4-40ca-8fff-e6e0be56f893.xml#14c51342-85f4-40ca-8fff-e6e0be56f893"/>
     </sourceConnections>
     <bounds
-        x="1056"
-        y="504"
+        x="804"
+        y="531"
         width="120"
         height="55"/>
     <archimateElement
