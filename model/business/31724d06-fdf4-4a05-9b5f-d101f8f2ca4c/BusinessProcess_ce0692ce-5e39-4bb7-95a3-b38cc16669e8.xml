@@ -1,4 +1,4 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="vérifier que les articles physiques en stock correspondent aux informations sur les fiches d'inventaire."
+    name="creer automatiquement la commande fournisseur"
     id="ce0692ce-5e39-4bb7-95a3-b38cc16669e8"/>

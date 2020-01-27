@@ -5,11 +5,35 @@
     id="642776d5-ec46-4d75-97fd-8190047e1c29">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="615b58c0-c983-47b8-a158-05eeef020719">
+    <bounds
+        x="533"
+        y="335"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_52de2f6c-73b7-4ff5-810a-fde70970aeda.xml#52de2f6c-73b7-4ff5-810a-fde70970aeda"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="988e6fee-146d-420f-87d2-ad229b760ad3">
+    <bounds
+        x="700"
+        y="389"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_3bc0f89f-8fe7-4a07-93c4-50fa68ed0603.xml#3bc0f89f-8fe7-4a07-93c4-50fa68ed0603"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="a5ea5b34-0fb6-4458-93b0-7a63a0e5e34d"
       targetConnections="1944c1a4-65e3-49d5-b864-0c9247c7879e">
     <bounds
-        x="924"
-        y="336"
+        x="917"
+        y="401"
         width="120"
         height="55"/>
     <archimateElement
@@ -19,7 +43,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="596b5d2a-09d4-406b-8db2-a0f26a84f4ec"
-      targetConnections="679b8c11-4bdf-46ef-ba84-1ec24549aa5e 332b6719-3bcf-4592-886f-6e3f1879e26d">
+      targetConnections="679b8c11-4bdf-46ef-ba84-1ec24549aa5e">
     <bounds
         x="1277"
         y="413"
@@ -70,92 +94,5 @@
     <archimateElement
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_fed8e811-5cf4-4f7b-97e7-83fe3e54a80f.xml#fed8e811-5cf4-4f7b-97e7-83fe3e54a80f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e4aa5562-b3ff-4c7b-b392-de8f3c523e91">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="594d656e-7807-4711-9007-45d649d89a3f"
-        source="e4aa5562-b3ff-4c7b-b392-de8f3c523e91"
-        target="103352ad-478c-4328-8b7f-3e645f12748a">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_6880fcf6-2735-4919-82e6-0e398be4932a.xml#6880fcf6-2735-4919-82e6-0e398be4932a"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="8ab9430c-3db9-4433-8aa4-f096f2216325"
-        source="e4aa5562-b3ff-4c7b-b392-de8f3c523e91"
-        target="97460249-e6d9-420c-9336-fd1ec7875b40">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_5eab9840-b4a4-4b8b-897c-107e2a0af7c1.xml#5eab9840-b4a4-4b8b-897c-107e2a0af7c1"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="d0b3001b-27f6-4c85-bd0c-f92f3973ca78"
-        source="e4aa5562-b3ff-4c7b-b392-de8f3c523e91"
-        target="aa48b72d-8857-40a4-af8a-13fa46cd2b4b">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_936794f7-6f9b-4ac6-8271-9cdf634593bb.xml#936794f7-6f9b-4ac6-8271-9cdf634593bb"/>
-    </sourceConnections>
-    <bounds
-        x="536"
-        y="570"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_ca8f01a1-9f46-4fe0-832d-ab760ef7dd5a.xml#ca8f01a1-9f46-4fe0-832d-ab760ef7dd5a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="97460249-e6d9-420c-9336-fd1ec7875b40"
-      targetConnections="8ab9430c-3db9-4433-8aa4-f096f2216325">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="332b6719-3bcf-4592-886f-6e3f1879e26d"
-        source="97460249-e6d9-420c-9336-fd1ec7875b40"
-        target="596b5d2a-09d4-406b-8db2-a0f26a84f4ec">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_e25fc573-b650-43dd-b1a0-50620e7f287a.xml#e25fc573-b650-43dd-b1a0-50620e7f287a"/>
-    </sourceConnections>
-    <bounds
-        x="404"
-        y="474"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_140d15ef-326c-4e34-85d7-4a9ae137aa12.xml#140d15ef-326c-4e34-85d7-4a9ae137aa12"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="103352ad-478c-4328-8b7f-3e645f12748a"
-      targetConnections="594d656e-7807-4711-9007-45d649d89a3f">
-    <bounds
-        x="564"
-        y="396"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_c224b1ce-e1f1-4f62-be9f-0f08614e82dd.xml#c224b1ce-e1f1-4f62-be9f-0f08614e82dd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="aa48b72d-8857-40a4-af8a-13fa46cd2b4b"
-      targetConnections="d0b3001b-27f6-4c85-bd0c-f92f3973ca78">
-    <bounds
-        x="708"
-        y="390"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_fbb7daf1-b580-451f-87ad-96ae6fb92643.xml#fbb7daf1-b580-451f-87ad-96ae6fb92643"/>
   </children>
 </archimate:ArchimateDiagramModel>
