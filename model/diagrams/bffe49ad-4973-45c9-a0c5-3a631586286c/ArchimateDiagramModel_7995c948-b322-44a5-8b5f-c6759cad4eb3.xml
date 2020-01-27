@@ -129,7 +129,7 @@
           href="AssociationRelationship_747e594e-2c13-4dd1-b17a-ecb0d8467a8c.xml#747e594e-2c13-4dd1-b17a-ecb0d8467a8c"/>
     </sourceConnections>
     <bounds
-        x="24"
+        x="178"
         y="96"
         width="120"
         height="81"/>
@@ -141,7 +141,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="72117fa8-e8d6-41e9-9a3a-94aa2f48b2a1">
     <bounds
-        x="48"
+        x="202"
         y="-17"
         width="120"
         height="55"/>
@@ -154,7 +154,7 @@
       id="20e1cf3b-742a-46e8-a1b5-c4c568ac08a8"
       targetConnections="43617bfa-72dc-4d40-b33d-ab303c3d718f">
     <bounds
-        x="-120"
+        x="34"
         y="108"
         width="120"
         height="55"/>
