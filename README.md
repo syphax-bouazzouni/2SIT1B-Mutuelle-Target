@@ -1,0 +1,2 @@
+# 2SIT1B-Mutuelle-Target
+Ce TP est proposé par trois modules de 2CS SIT : ASI, ERP et SIAD. Il s’agit d’une étude d’un cas réel dans lequel il est demandé de construire l’architecture actuelle du système d’information de l’entreprise, l’architecture future et l’analyse de l’écart. La feuille de route devra contenir une intégration d’un projet ERP et un tableau de bord de gestion. Les étudiants adopteront la démarche TOGAF et l’annotation Archimate et BPMN.
